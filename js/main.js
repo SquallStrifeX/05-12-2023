@@ -27,7 +27,7 @@ let prev = document.getElementById('prevbutton');
 let items = document.querySelector('.items');
 let imagex = document.getElementById('image');
 let titlex = document.getElementById('title');
-let textx = document.getElementById('text')
+let textx = document.getElementById('text');
 let corrente = 0;
 
 function showimage(index) {
